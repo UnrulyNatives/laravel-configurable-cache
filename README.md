@@ -1,6 +1,6 @@
 <div align="center">
 
-# Laravel Configurable Cache
+# Laravel Configurable Cache: Laravel 12
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/salehhashemi/laravel-configurable-cache.svg?style=flat-square)](https://packagist.org/packages/salehhashemi/laravel-configurable-cache)
 [![Total Downloads](https://img.shields.io/packagist/dt/salehhashemi/laravel-configurable-cache.svg?style=flat-square)](https://packagist.org/packages/salehhashemi/laravel-configurable-cache)
